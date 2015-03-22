@@ -4,7 +4,7 @@ author: Ashley Grace
 website: http://www.github.com/quorra/minecraft-worldbuilder
 main: com.github.quorra.minecraft.App
 commands: 
-	hello:
-		description: Say hello to everyone
-		usage: /hello [optionalmessage]
+    hello:
+        description: Say hello to everyone
+        usage: /hello [optionalmessage]
 version: 0.1
